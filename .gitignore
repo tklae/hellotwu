@@ -1,3 +1,8 @@
 server.log
 target**
-.idea**
+
+#IntelliJ files
+.idea
+*.iml
+*.iws
+*.ipr
